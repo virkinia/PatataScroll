@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D91F50EE228F2C99000B75CB /* SinderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91F50ED228F2C99000B75CB /* SinderViewController.swift */; };
+		D91F50F0228F2F82000B75CB /* AvatarCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91F50EF228F2F82000B75CB /* AvatarCollectionViewCell.swift */; };
 		D941C215228C6207000DAD4B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D941C214228C6207000DAD4B /* AppDelegate.swift */; };
 		D941C21A228C6207000DAD4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D941C218228C6207000DAD4B /* Main.storyboard */; };
 		D941C21C228C6207000DAD4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D941C21B228C6207000DAD4B /* Assets.xcassets */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D91F50ED228F2C99000B75CB /* SinderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SinderViewController.swift; sourceTree = "<group>"; };
+		D91F50EF228F2F82000B75CB /* AvatarCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvatarCollectionViewCell.swift; sourceTree = "<group>"; };
 		D941C211228C6207000DAD4B /* PatataScroll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PatataScroll.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D941C214228C6207000DAD4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D941C219228C6207000DAD4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				D97926A2228DD6EB0046B1D8 /* TinderViewController.swift */,
 				D941C228228C9770000DAD4B /* PersonViewController.swift */,
 				D941C218228C6207000DAD4B /* Main.storyboard */,
+				D91F50ED228F2C99000B75CB /* SinderViewController.swift */,
+				D91F50EF228F2F82000B75CB /* AvatarCollectionViewCell.swift */,
 				D941C21B228C6207000DAD4B /* Assets.xcassets */,
 				D941C21D228C6207000DAD4B /* LaunchScreen.storyboard */,
 				D941C220228C6207000DAD4B /* Info.plist */,
@@ -145,6 +151,8 @@
 				D941C227228C95E0000DAD4B /* PeoplePageViewController.swift in Sources */,
 				D97926A3228DD6EB0046B1D8 /* TinderViewController.swift in Sources */,
 				D941C215228C6207000DAD4B /* AppDelegate.swift in Sources */,
+				D91F50EE228F2C99000B75CB /* SinderViewController.swift in Sources */,
+				D91F50F0228F2F82000B75CB /* AvatarCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
